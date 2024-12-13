@@ -1,15 +1,6 @@
 Git Commands
 ============
 
-## Translated Versions
-- [Versão em português](READMEpt.md)
-
-___
-
-_A list of my commonly used Git commands_
-
-*If you are interested in my Git aliases, have a look at my `.bash_profile`, found here: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
-
 --
 
 ### Getting & Creating Projects
@@ -70,3 +61,8 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+
+
+
+
